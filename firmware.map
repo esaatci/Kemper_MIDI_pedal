@@ -1,0 +1,383 @@
+Archive member included to satisfy reference by file (symbol)
+
+/Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/libgcc.a(_udivsi3.o)
+                              build/src/system_MKL26Z4.o (__aeabi_uidiv)
+/Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/libgcc.a(_dvmd_tls.o)
+                              /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+/Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-exit.o)
+                              /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o (exit)
+/Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-impure.o)
+                              /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-exit.o) (_global_impure_ptr)
+/Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-init.o)
+                              /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o (__libc_init_array)
+/Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-memset.o)
+                              /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o (memset)
+/Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-__call_atexit.o)
+                              /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-exit.o) (__call_exitprocs)
+/Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-atexit.o)
+                              /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-__call_atexit.o) (atexit)
+/Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-fini.o)
+                              /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-__call_atexit.o) (__libc_fini_array)
+/Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-lock.o)
+                              /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-__call_atexit.o) (__retarget_lock_acquire_recursive)
+/Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-__atexit.o)
+                              /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-atexit.o) (__register_exitproc)
+
+Allocating common symbols
+Common symbol       size              file
+
+__lock___atexit_recursive_mutex
+                    0x1               /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-lock.o)
+__lock___arc4random_mutex
+                    0x1               /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-lock.o)
+__lock___env_recursive_mutex
+                    0x1               /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-lock.o)
+__lock___sinit_recursive_mutex
+                    0x1               /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-lock.o)
+__lock___malloc_recursive_mutex
+                    0x1               /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-lock.o)
+__lock___at_quick_exit_mutex
+                    0x1               /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-lock.o)
+__lock___dd_hash_mutex
+                    0x1               /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-lock.o)
+__lock___tz_mutex   0x1               /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-lock.o)
+__lock___sfp_recursive_mutex
+                    0x1               /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-lock.o)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crti.o
+ .data          0x0000000000000000        0x0 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crti.o
+ .bss           0x0000000000000000        0x0 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crti.o
+ .data          0x0000000000000000        0x4 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crtbegin.o
+ .text          0x0000000000000000       0x80 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .data          0x0000000000000000        0x0 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .bss           0x0000000000000000        0x0 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .ARM.extab     0x0000000000000000        0x0 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .ARM.exidx     0x0000000000000000       0x10 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .ARM.attributes
+                0x0000000000000000       0x1b /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .text          0x0000000000000000        0xc build/src/main.o
+ .data          0x0000000000000000        0x0 build/src/main.o
+ .bss           0x0000000000000000        0x0 build/src/main.o
+ .debug_info    0x0000000000000000       0xa6 build/src/main.o
+ .debug_abbrev  0x0000000000000000       0x68 build/src/main.o
+ .debug_aranges
+                0x0000000000000000       0x20 build/src/main.o
+ .debug_line    0x0000000000000000      0x147 build/src/main.o
+ .debug_str     0x0000000000000000      0x148 build/src/main.o
+ .comment       0x0000000000000000       0x4d build/src/main.o
+ .debug_frame   0x0000000000000000       0x2c build/src/main.o
+ .ARM.attributes
+                0x0000000000000000       0x2c build/src/main.o
+ .text          0x0000000000000000      0x298 build/src/system_MKL26Z4.o
+ .data          0x0000000000000000        0x4 build/src/system_MKL26Z4.o
+ .bss           0x0000000000000000        0x0 build/src/system_MKL26Z4.o
+ .debug_info    0x0000000000000000      0x470 build/src/system_MKL26Z4.o
+ .debug_abbrev  0x0000000000000000      0x145 build/src/system_MKL26Z4.o
+ .debug_aranges
+                0x0000000000000000       0x20 build/src/system_MKL26Z4.o
+ .debug_line    0x0000000000000000      0x284 build/src/system_MKL26Z4.o
+ .debug_str     0x0000000000000000      0x2bf build/src/system_MKL26Z4.o
+ .comment       0x0000000000000000       0x4d build/src/system_MKL26Z4.o
+ .debug_frame   0x0000000000000000       0x68 build/src/system_MKL26Z4.o
+ .ARM.attributes
+                0x0000000000000000       0x2c build/src/system_MKL26Z4.o
+ .text          0x0000000000000000      0x114 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/libgcc.a(_udivsi3.o)
+ .data          0x0000000000000000        0x0 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/libgcc.a(_udivsi3.o)
+ .bss           0x0000000000000000        0x0 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/libgcc.a(_udivsi3.o)
+ .debug_frame   0x0000000000000000       0x20 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x0000000000000000       0x1e /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/libgcc.a(_udivsi3.o)
+ .text          0x0000000000000000        0x4 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/libgcc.a(_dvmd_tls.o)
+ .data          0x0000000000000000        0x0 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/libgcc.a(_dvmd_tls.o)
+ .bss           0x0000000000000000        0x0 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x0000000000000000       0x1e /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/libgcc.a(_dvmd_tls.o)
+ .text          0x0000000000000000        0x0 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-exit.o)
+ .data          0x0000000000000000        0x0 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-exit.o)
+ .bss           0x0000000000000000        0x0 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-exit.o)
+ .text.exit     0x0000000000000000       0x20 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-exit.o)
+ .debug_frame   0x0000000000000000       0x28 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-exit.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-exit.o)
+ .text          0x0000000000000000        0x0 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x0000000000000000        0x4 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-impure.o)
+ .text          0x0000000000000000        0x0 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-init.o)
+ .data          0x0000000000000000        0x0 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-init.o)
+ .bss           0x0000000000000000        0x0 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-init.o)
+ .text.__libc_init_array
+                0x0000000000000000       0x44 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-init.o)
+ .debug_frame   0x0000000000000000       0x2c /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-init.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-init.o)
+ .text          0x0000000000000000        0x0 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-memset.o)
+ .text.memset   0x0000000000000000       0xa8 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-memset.o)
+ .debug_frame   0x0000000000000000       0x30 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-memset.o)
+ .text          0x0000000000000000        0x0 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-__call_atexit.o)
+ .data          0x0000000000000000        0x0 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-__call_atexit.o)
+ .bss           0x0000000000000000        0x0 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x0000000000000000       0xe4 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-__call_atexit.o)
+ .text          0x0000000000000000        0x0 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-atexit.o)
+ .data          0x0000000000000000        0x0 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-atexit.o)
+ .bss           0x0000000000000000        0x0 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-atexit.o)
+ .text          0x0000000000000000        0x0 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-fini.o)
+ .data          0x0000000000000000        0x0 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-fini.o)
+ .bss           0x0000000000000000        0x0 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-fini.o)
+ .text          0x0000000000000000        0x0 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-lock.o)
+ .data          0x0000000000000000        0x0 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-lock.o)
+ .bss           0x0000000000000000        0x0 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_init
+                0x0000000000000000        0x4 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_init_recursive
+                0x0000000000000000        0x4 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_close
+                0x0000000000000000        0x4 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x0000000000000000        0x4 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x0000000000000000        0x4 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x0000000000000000        0x4 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x0000000000000000        0x4 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_release
+                0x0000000000000000        0x4 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-lock.o)
+ .text          0x0000000000000000        0x0 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-__atexit.o)
+ .data          0x0000000000000000        0x0 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-__atexit.o)
+ .bss           0x0000000000000000        0x0 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-__atexit.o)
+ .text          0x0000000000000000        0x0 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crtend.o
+ .data          0x0000000000000000        0x0 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crtend.o
+ .bss           0x0000000000000000        0x0 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crtend.o
+ .text          0x0000000000000000        0x0 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crtn.o
+ .data          0x0000000000000000        0x0 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crtn.o
+ .bss           0x0000000000000000        0x0 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x0000000000000000 0x0000000000040000 xr
+RAM              0x0000000020000000 0x0000000000020000 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crti.o
+LOAD /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crtbegin.o
+LOAD /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+LOAD build/src/main.o
+LOAD build/src/system_MKL26Z4.o
+LOAD /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libm.a
+START GROUP
+LOAD /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/libgcc.a
+LOAD /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a
+END GROUP
+LOAD /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crtend.o
+LOAD /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crtn.o
+                0x0000000000000000                __ROM_BASE = 0x0
+                0x0000000000040000                __ROM_SIZE = 0x40000
+                0x0000000020000000                __RAM_BASE = 0x20000000
+                0x0000000000020000                __RAM_SIZE = 0x20000
+                0x0000000000000400                __STACK_SIZE = 0x400
+                0x0000000000000c00                __HEAP_SIZE = 0xc00
+
+.text           0x0000000000000000      0x16c
+ *(.vectors)
+ *(.text*)
+ .text          0x0000000000000000       0x48 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crtbegin.o
+ .text.startup.register_fini
+                0x0000000000000048       0x18 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-__call_atexit.o)
+ .text.atexit   0x0000000000000060       0x10 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-atexit.o)
+                0x0000000000000060                atexit
+ .text.__libc_fini_array
+                0x0000000000000070       0x28 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-fini.o)
+                0x0000000000000070                __libc_fini_array
+ .text.__retarget_lock_acquire_recursive
+                0x0000000000000098        0x4 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-lock.o)
+                0x0000000000000098                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_release_recursive
+                0x000000000000009c        0x4 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-lock.o)
+                0x000000000000009c                __retarget_lock_release_recursive
+ .text.__register_exitproc
+                0x00000000000000a0       0xac /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-__atexit.o)
+                0x00000000000000a0                __register_exitproc
+ *(.init)
+ .init          0x000000000000014c        0x4 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crti.o
+                0x000000000000014c                _init
+ .init          0x0000000000000150        0x8 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crtn.o
+ *(.fini)
+ .fini          0x0000000000000158        0x4 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crti.o
+                0x0000000000000158                _fini
+ .fini          0x000000000000015c        0x8 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crtn.o
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+ *(.rodata*)
+ .rodata._global_impure_ptr
+                0x0000000000000164        0x4 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-impure.o)
+                0x0000000000000164                _global_impure_ptr
+ *(.eh_frame*)
+ .eh_frame      0x0000000000000168        0x0 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crtbegin.o
+ .eh_frame      0x0000000000000168        0x4 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crtend.o
+
+.glue_7         0x000000000000016c        0x0
+ .glue_7        0x000000000000016c        0x0 linker stubs
+
+.glue_7t        0x000000000000016c        0x0
+ .glue_7t       0x000000000000016c        0x0 linker stubs
+
+.vfp11_veneer   0x000000000000016c        0x0
+ .vfp11_veneer  0x000000000000016c        0x0 linker stubs
+
+.v4_bx          0x000000000000016c        0x0
+ .v4_bx         0x000000000000016c        0x0 linker stubs
+
+.iplt           0x000000000000016c        0x0
+ .iplt          0x000000000000016c        0x0 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crtbegin.o
+
+.rel.dyn        0x000000000000016c        0x0
+ .rel.iplt      0x000000000000016c        0x0 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x000000000000016c                __exidx_start = .
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x000000000000016c                __exidx_end = .
+
+.copy.table     0x000000000000016c        0xc
+                0x000000000000016c                . = ALIGN (0x4)
+                0x000000000000016c                __copy_table_start__ = .
+                0x000000000000016c        0x4 LONG 0x178 __etext
+                0x0000000000000170        0x4 LONG 0x20000000 __data_start__
+                0x0000000000000174        0x4 LONG 0x438 (__data_end__ - __data_start__)
+                0x0000000000000178                __copy_table_end__ = .
+
+.zero.table     0x0000000000000178        0x0
+                0x0000000000000178                . = ALIGN (0x4)
+                0x0000000000000178                __zero_table_start__ = .
+                0x0000000000000178                __zero_table_end__ = .
+                0x0000000000000178                __etext = ALIGN (0x4)
+
+.data           0x0000000020000000      0x438 load address 0x0000000000000178
+                0x0000000020000000                __data_start__ = .
+ *(vtable)
+ *(.data)
+ *(.data.*)
+ .data.impure_data
+                0x0000000020000000      0x428 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-impure.o)
+ .data.__atexit_recursive_mutex
+                0x0000000020000428        0x4 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-__call_atexit.o)
+                0x0000000020000428                __atexit_recursive_mutex
+                0x000000002000042c                . = ALIGN (0x4)
+                0x000000002000042c                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array)
+                0x000000002000042c                PROVIDE (__preinit_array_end = .)
+                0x000000002000042c                . = ALIGN (0x4)
+                0x000000002000042c                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ .init_array.00000
+                0x000000002000042c        0x4 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-__call_atexit.o)
+ *(.init_array)
+ .init_array    0x0000000020000430        0x4 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crtbegin.o
+                0x0000000020000434                PROVIDE (__init_array_end = .)
+                0x0000000020000434                . = ALIGN (0x4)
+                0x0000000020000434                PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array)
+ .fini_array    0x0000000020000434        0x4 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crtbegin.o
+                0x0000000020000438                PROVIDE (__fini_array_end = .)
+ *(.jcr*)
+                0x0000000020000438                . = ALIGN (0x4)
+                0x0000000020000438                __data_end__ = .
+
+.igot.plt       0x0000000020000438        0x0 load address 0x00000000000005b0
+ .igot.plt      0x0000000020000438        0x0 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crtbegin.o
+
+.bss            0x0000000020000438       0x40
+                0x0000000020000438                . = ALIGN (0x4)
+                0x0000000020000438                __bss_start__ = .
+ *(.bss)
+ .bss           0x0000000020000438       0x1c /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crtbegin.o
+ *(.bss.*)
+ *(COMMON)
+ COMMON         0x0000000020000454       0x21 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-lock.o)
+                0x0000000020000454                __lock___atexit_recursive_mutex
+                0x0000000020000458                __lock___arc4random_mutex
+                0x000000002000045c                __lock___env_recursive_mutex
+                0x0000000020000460                __lock___sinit_recursive_mutex
+                0x0000000020000464                __lock___malloc_recursive_mutex
+                0x0000000020000468                __lock___at_quick_exit_mutex
+                0x000000002000046c                __lock___dd_hash_mutex
+                0x0000000020000470                __lock___tz_mutex
+                0x0000000020000474                __lock___sfp_recursive_mutex
+                0x0000000020000478                . = ALIGN (0x4)
+ *fill*         0x0000000020000475        0x3 
+                0x0000000020000478                __bss_end__ = .
+
+.heap           0x0000000020000478      0xc00
+                0x0000000020000478                . = ALIGN (0x8)
+                0x0000000020000478                __end__ = .
+                [!provide]                        PROVIDE (end = .)
+                0x0000000020001078                . = (. + __HEAP_SIZE)
+ *fill*         0x0000000020000478      0xc00 
+                0x0000000020001078                . = ALIGN (0x8)
+                0x0000000020001078                __HeapLimit = .
+
+.stack          0x000000002001fc00      0x400
+                0x000000002001fc00                . = ALIGN (0x8)
+                0x000000002001fc00                __StackLimit = .
+                0x0000000020020000                . = (. + __STACK_SIZE)
+ *fill*         0x000000002001fc00      0x400 
+                0x0000000020020000                . = ALIGN (0x8)
+                0x0000000020020000                __StackTop = .
+                0x0000000020020000                PROVIDE (__stack = __StackTop)
+                0x0000000000000001                ASSERT ((__StackLimit >= __HeapLimit), region RAM overflowed with stack)
+OUTPUT(firmware.elf elf32-littlearm)
+LOAD linker stubs
+
+.ARM.attributes
+                0x0000000000000000       0x28
+ .ARM.attributes
+                0x0000000000000000       0x1e /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crti.o
+ .ARM.attributes
+                0x000000000000001e       0x2c /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crtbegin.o
+ .ARM.attributes
+                0x000000000000004a       0x2c /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000000000000076       0x2c /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x00000000000000a2       0x2c /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x00000000000000ce       0x2c /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-fini.o)
+ .ARM.attributes
+                0x00000000000000fa       0x2c /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-lock.o)
+ .ARM.attributes
+                0x0000000000000126       0x2c /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x0000000000000152       0x2c /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crtend.o
+ .ARM.attributes
+                0x000000000000017e       0x1e /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v6-m/nofp/crtn.o
+
+.debug_frame    0x0000000000000000      0x194
+ .debug_frame   0x0000000000000000       0x54 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x0000000000000054       0x28 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-atexit.o)
+ .debug_frame   0x000000000000007c       0x2c /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-fini.o)
+ .debug_frame   0x00000000000000a8       0xb0 /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-lock.o)
+ .debug_frame   0x0000000000000158       0x3c /Users/efesaatci/Desktop/projects/tools/gcc-arm-none-eabi-9-2020-q2-update/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc.a(lib_a-__atexit.o)

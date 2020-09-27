@@ -1,0 +1,11 @@
+Release Name: MCUXpresso Software Development Kit (SDK)
+Release Version: 10.0.3
+
+KSDK Peripheral Driver     Description: Peripheral drivers are designed for  
+                           the most common use cases indentified for         
+                           the underlying hardware block.                    
+                           Author: Freescale                                 
+                           Version: 2.x.x                                    
+                           License: Open Source - BSD-3-Clause Clear         
+                           Format: source code                               
+                           Location: devices/<device_name>/drivers           
